@@ -1,24 +1,31 @@
 # Fresh Tomatoes
 Fresh Tomatoes is a simple website which displays your favourite movies and their trailers.
 
+# Requirements
+* Python (version 2.7 or 3.6).
+* Web browser is required to display the Fresh Tomatoes web page. Although Chrome (Version 60.0.3112.113) is recommended, adventurous users are welcome to use Internet Explorer 7.0.
+* Terminal emulator (e.g., macOS Terminal, Windows cmd, Windows PowerShell) is required to run the `entertainment_center.py` file.
+
 # Installation
 Clone the GitHub repository. Ensure the following files are located in the same directory:
 * fresh_tomatoes.py
 * media.py
 * entertainment_center.py
 
-# Requirements
-Python 2.7 or 3.6 is required to run `entertainment_center.py`.
+# Creating the Website
+Using a terminal emulator, navigate to the project directory.
 
-A web browser is required to display the Fresh Tomatoes web page.
+`host:dir user$ cd ud036_StarterCode`
 
-Although Chrome (Version 60.0.3112.113) is recommended, adventurous users are welcome to use Internet Explorer 7.0.
+Using Python, run the `entertainment_center.py` file.
+
+`host:ud036_StarterCode user$ python entertainment_center.py`
 
 # Editing the List of Movies
 ## Changing the order in which movies are displayed
 In the `entertainment_center.py` file, change the order in which class instances appear in the `movies` list.
 
-## Adding a movie
+## Adding a Movie
 In the `entertainment_center.py`, create an instance of the class Movie.
 
 Example:
@@ -33,12 +40,13 @@ Append the newly-initialized class instance to the `movies` list.
 
 Save changes to and run `entertainment_center.py`.
 
-## Removing a movie
+## Removing a Movie
 In the `entertainment_center.py`, delete the selected class instance from the `movies` list.
 
 Delete the class instance from `entertainment_center.py`.
 Save changes to and run `entertainment_center.py`.
-# Issues
+
+# Known Issues
 Certain YouTube links may have their playback restricted on external websites.
 
 # License
