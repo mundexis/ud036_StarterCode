@@ -7,10 +7,25 @@ Fresh Tomatoes is a simple website which displays your favourite movies and thei
 * Terminal emulator (e.g., macOS Terminal, Windows cmd, Windows PowerShell) is required to run the `entertainment_center.py` file.
 
 # Installation
-Clone the GitHub repository. Ensure the following files are located in the same directory:
+Clone the GitHub repository.
+
+```
+git clone https://github.com/mundexis/ud036_StarterCode.git
+```
+
+Confirm  the following files are located in the same directory:
 * fresh_tomatoes.py
 * media.py
 * entertainment_center.py
+
+```
+host:dir user$ cd ud036_StarterCode
+host:ud036_StarterCode user$ ls -la
+-rw-r--r--   1 user  staff  2948 Sep 25 05:05 README.md
+-rw-r--r--   1 user  staff  3274 Sep 25 04:26 entertainment_center.py
+-rw-r--r--   1 user  staff  5514 Sep 25 02:33 fresh_tomatoes.py
+-rw-r--r--   1 user  staff   655 Sep 25 02:42 media.py
+```
 
 # Creating the Website
 Using a terminal emulator, navigate to the project directory.
