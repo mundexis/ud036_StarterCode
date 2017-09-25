@@ -15,11 +15,15 @@ Clone the GitHub repository. Ensure the following files are located in the same 
 # Creating the Website
 Using a terminal emulator, navigate to the project directory.
 
-`host:dir user$ cd ud036_StarterCode`
+```
+host:dir user$ cd ud036_StarterCode
+```
 
 Using Python, run the `entertainment_center.py` file.
 
-`host:ud036_StarterCode user$ python entertainment_center.py`
+```
+host:ud036_StarterCode user$ python entertainment_center.py
+```
 
 # Editing the List of Movies
 ## Changing the order in which movies are displayed
