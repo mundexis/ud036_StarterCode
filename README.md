@@ -28,11 +28,14 @@ movie_name = (
   )
 ```
 Append the newly-initialized class instance to the `movies` list.
+
 Save changes to and run `entertainment_center.py`.
 
 ## Removing a movie
 In the `entertainment_center.py`, delete the selected class instance from the `movies` list.
+
 Delete the class instance from `entertainment_center.py`.
+
 Save changes to and run `entertainment_center.py`.
 
 # Issues
