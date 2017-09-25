@@ -10,7 +10,9 @@ Clone the GitHub repository. Ensure the following files are located in the same 
 # Requirements
 Python 2.7 or 3.6 is required to run `entertainment_center.py`.
 
-A web browser is required to display the Fresh Tomatoes web page. While Chrome (Version 60.0.3112.113) is recommended, adventurous users are welcome to use Internet Explorer 7.0.
+A web browser is required to display the Fresh Tomatoes web page.
+
+Although Chrome (Version 60.0.3112.113) is recommended, adventurous users are welcome to use Internet Explorer 7.0.
 
 # Editing the List of Movies
 ## Changing the order in which movies are displayed
