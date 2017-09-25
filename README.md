@@ -14,7 +14,7 @@ A web browser is required to display the Fresh Tomatoes web page. While Chrome (
 
 # Editing the List of Movies
 ## Changing the order in which movies are displayed
-In the `entertainment_center.py` file, change the order in which class instances appear in the `movies` variable.
+In the `entertainment_center.py` file, change the order in which class instances appear in the `movies` list.
 
 ## Adding a movie
 In the `entertainment_center.py`, create an instance of the class Movie.
@@ -27,11 +27,11 @@ movie_name = (
   'trailer_youtube_url'
   )
 ```
-Append the newly-initialized movie class to the `movies` variable.
+Append the newly-initialized class instance to the `movies` list.
 Save changes to and run `entertainment_center.py`.
 
 ## Removing a movie
-In the `entertainment_center.py`, delete the selected class instance from the `movies` variable.
+In the `entertainment_center.py`, delete the selected class instance from the `movies` list.
 Delete the class instance from `entertainment_center.py`.
 Save changes to and run `entertainment_center.py`.
 
