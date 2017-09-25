@@ -28,12 +28,6 @@ host:ud036_StarterCode user$ ls -la
 ```
 
 # Creating the Website
-Using a terminal emulator, navigate to the project directory.
-
-```
-host:dir user$ cd ud036_StarterCode
-```
-
 Using Python, run the `entertainment_center.py` file.
 
 ```
