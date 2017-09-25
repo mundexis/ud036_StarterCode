@@ -52,7 +52,7 @@ Delete the class instance from `entertainment_center.py`.
 Save changes to and run `entertainment_center.py`.
 
 # Known Issues
-Certain YouTube links may restrict playback on external websites. Users may require alternative links to movie trailers.
+Certain YouTube links may restrict playback on external websites. Alternative links to movie trailers may be required.
 
 # License
 This project is available under the MIT License.
