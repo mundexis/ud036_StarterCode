@@ -34,6 +34,7 @@ In the `entertainment_center.py`, create an instance of the class Movie.
 
 Example:
 ```
+# movie_name movie: title, link to the poster image, and link to the movie trailer.
 movie_name = (
   'title',
   'poster_image_url',
